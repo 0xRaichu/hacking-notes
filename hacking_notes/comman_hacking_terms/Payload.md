@@ -1,0 +1,3 @@
+- This is the actual code which does the work. It runs on the system after exploitation.
+- It is mostly used to set up a connection between the attacking and victim machines.
+- Metasploit has more than 500 payloads.
