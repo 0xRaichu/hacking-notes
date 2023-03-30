@@ -22,3 +22,4 @@ root@kali:~# cat /usr/share/metasploitframework/config/database.yml
 ```python
 msf > db_status
 ```
+
