@@ -92,6 +92,66 @@
             }
           },
           {
+            "id": "8090fbfe27ffdce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "comman_hacking_terms/SAM RPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53b22572d3733f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metasploit/creating automated scripts(resource scripts).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4487a8b005b12f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metasploit/Post-Exploitation/Intro to post exploitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c0c6e4ff20341dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "comman_hacking_terms/access token.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6723eeda025832cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metasploit/Post-Exploitation/Intro to post exploitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0b294cca800cd250",
             "type": "leaf",
             "state": {
@@ -332,7 +392,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -398,7 +458,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hacker playbook/comman_hacking_terms/domain controller.md",
+                "file": "Metasploit/Post-Exploitation/Intro to post exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +475,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hacker playbook/comman_hacking_terms/domain controller.md",
+                "file": "Metasploit/Post-Exploitation/Intro to post exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -438,7 +498,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hacker playbook/comman_hacking_terms/domain controller.md"
+                "file": "Metasploit/Post-Exploitation/Intro to post exploitation.md"
               }
             }
           }
@@ -459,10 +519,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91d504af2ba64615",
+  "active": "f4487a8b005b12f9",
   "lastOpenFiles": [
-    "hacker playbook/Untitled.md",
+    "comman_hacking_terms/access token.md",
+    "Metasploit/Post-Exploitation/Intro to post exploitation.md",
+    "comman_hacking_terms/named pipe.md",
+    "Metasploit/creating automated scripts(resource scripts).md",
+    "Metasploit/Post-Exploitation",
+    "comman_hacking_terms/SAM.md",
+    "comman_hacking_terms/SAM RPC.md",
+    "comman_hacking_terms/Microsoft User Account Control(UAC).md",
     "hacker playbook/comman_hacking_terms/domain controller.md",
+    "hacker playbook/Untitled.md",
     "hacker playbook/comman_hacking_terms",
     "hacker playbook/penetration test beginning/Steps on performing penetration test.md",
     "hacker playbook",
@@ -484,13 +552,6 @@
     "images/transport_list.png",
     "Metasploit/meterpreter/Meterpreter sleep control.md",
     "Metasploit/meterpreter/Scraping the system using winenum.md",
-    "Metasploit/meterpreter/Scraper Meterpreter script.md",
-    "Metasploit/meterpreter/Meterpreter timeout control.md",
-    "Metasploit/meterpreter/Meterpreter system commands.md",
-    "Metasploit/meterpreter/Meterpreter resource scripts.md",
-    "Metasploit/meterpreter/Meterpreter networking commands.md",
-    "Metasploit/meterpreter/Meterpreter filesystem Commands.md",
-    "Metasploit/meterpreter/meterpreter basic commands.md",
     "forensics",
     "Metasploit/meterpreter/Untitled",
     "Pasted image 20230222121704.png",
@@ -502,7 +563,6 @@
     "security assessment",
     "images/nessus_steps.png",
     "Metasploit/active information gathering/nessus",
-    "Metasploit/active information gathering/WinRM",
     "images/http_put_vulnerability.jpeg",
     "images/TCP_header.png"
   ]
