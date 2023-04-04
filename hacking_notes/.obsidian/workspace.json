@@ -8,127 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44f5a0f7fe88e00f",
+            "id": "3f468cd9a678dd23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comman_hacking_terms/Exploit.md",
+                "file": "Metasploit/Post-Exploitation/Incognito attacks with Meterpreter.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e1d06033f285ff00",
+            "id": "bbb0707262e52070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comman_hacking_terms/DLL.md",
+                "file": "comman_hacking_terms/Kerberos credentials.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a424374944cc56b7",
+            "id": "42eb4e216d9bc42b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comman_hacking_terms/DLL injection.md",
+                "file": "Metasploit/Post-Exploitation/Using Mimikatz.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf243e8822ad64d0",
+            "id": "df4d369c60141cf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comman_hacking_terms/Windows API.md",
+                "file": "comman_hacking_terms/Pivoting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8e891ac2f01fe82d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "security assessment/Network vulnerability assessment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d421836e8e743345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hacker playbook/penetration test beginning/Steps on performing penetration test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91d504af2ba64615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hacker playbook/comman_hacking_terms/domain controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8090fbfe27ffdce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "comman_hacking_terms/SAM RPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53b22572d3733f64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/creating automated scripts(resource scripts).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4487a8b005b12f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/Post-Exploitation/Intro to post exploitation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c0c6e4ff20341dc",
+            "id": "e1f23a37e507b289",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,259 +68,55 @@
             }
           },
           {
-            "id": "6723eeda025832cd",
+            "id": "8686755541abcca6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metasploit/Post-Exploitation/Intro to post exploitation.md",
+                "file": "comman_hacking_terms/Registry in Windows.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0b294cca800cd250",
+            "id": "249dbc4f7c6c222e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metasploit/meterpreter/Introduction to meterpreter.md",
+                "file": "Metasploit/Post-Exploitation/Enumeration modules.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6eb94454c5f665cb",
+            "id": "0a19d39eba4f199f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metasploit/Server side exploitation/Exploiting windows server when we have credentials.md",
+                "file": "Metasploit/Post-Exploitation/Analyzing an existing post-exploitation module.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "222b5282387fc037",
+            "id": "63129e705cb129ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metasploit/creating automated scripts(resource scripts).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98119cfa0eab96ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/meterpreter basic commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c7d98b5b8bce78c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Meterpreter filesystem Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f19447ca8dd3c16b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Meterpreter networking commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85d5a9d8ac1da1f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Meterpreter networking commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2221c2f1a5134931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Meterpreter system commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cecc0e195634936d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Creating multiple communication channels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8170c2d6f3e35c8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "forensics/Modified-Accessed-Created-Entry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b345ea0b9436e2c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Meterpreter anti-forensics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "839d22f5e2a8f6b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Meterpreter system commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9af529cfb9271175",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Scraper Meterpreter script.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cccfa1e18c13c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Scraping the system using winenum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4950f005ae1be46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Automation with AutorunScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b392e94bd01e8d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "comman_hacking_terms/Threat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29ad3b6d556090cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Meterpreter timeout control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed03fe7170253de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Meterpreter sleep control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c72c3794906a6a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit/meterpreter/Meterpreter transports.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a837b416a2fa92a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "comman_hacking_terms/TLS.md",
+                "file": "comman_hacking_terms/Local Security Authority Subsystem(LSASS).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -458,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metasploit/Post-Exploitation/Intro to post exploitation.md",
+                "file": "Metasploit/Post-Exploitation/Analyzing an existing post-exploitation module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -475,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metasploit/Post-Exploitation/Intro to post exploitation.md",
+                "file": "Metasploit/Post-Exploitation/Analyzing an existing post-exploitation module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -498,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metasploit/Post-Exploitation/Intro to post exploitation.md"
+                "file": "Metasploit/Post-Exploitation/Analyzing an existing post-exploitation module.md"
               }
             }
           }
@@ -519,39 +243,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4487a8b005b12f9",
+  "active": "0a19d39eba4f199f",
   "lastOpenFiles": [
+    "Metasploit/Post-Exploitation/Enumeration modules.md",
+    "Metasploit/Post-Exploitation/Analyzing an existing post-exploitation module.md",
+    "comman_hacking_terms/Registry in Windows.md",
     "comman_hacking_terms/access token.md",
+    "Metasploit/Post-Exploitation/Pivoting with Meterpreter.md",
+    "comman_hacking_terms/Pivoting.md",
+    "images/pivoting.jpeg",
+    "Metasploit/Post-Exploitation/Using Mimikatz.md",
+    "comman_hacking_terms/Local Security Authority Subsystem(LSASS).md",
+    "comman_hacking_terms/Kerberos credentials.md",
+    "Metasploit/Post-Exploitation/Incognito attacks with Meterpreter.md",
+    "Metasploit/Post-Exploitation/Taking out contents of SAM database.md",
     "Metasploit/Post-Exploitation/Intro to post exploitation.md",
-    "comman_hacking_terms/named pipe.md",
     "Metasploit/creating automated scripts(resource scripts).md",
+    "comman_hacking_terms/SAM RPC.md",
+    "hacker playbook/comman_hacking_terms/domain controller.md",
+    "hacker playbook/penetration test beginning/Steps on performing penetration test.md",
+    "security assessment/Network vulnerability assessment.md",
+    "Metasploit/meterpreter/Scraping the system using winenum.md",
+    "comman_hacking_terms/Impersonate token.md",
+    "comman_hacking_terms/named pipe.md",
     "Metasploit/Post-Exploitation",
     "comman_hacking_terms/SAM.md",
-    "comman_hacking_terms/SAM RPC.md",
     "comman_hacking_terms/Microsoft User Account Control(UAC).md",
-    "hacker playbook/comman_hacking_terms/domain controller.md",
     "hacker playbook/Untitled.md",
     "hacker playbook/comman_hacking_terms",
-    "hacker playbook/penetration test beginning/Steps on performing penetration test.md",
     "hacker playbook",
     "hacker playbook/penetration test beginning",
-    "security assessment/Network vulnerability assessment.md",
     "security assessment/Vulnerability assessment.md",
     "security assessment/security assessment.md",
     "comman_hacking_terms/DLL.md",
-    "Metasploit/meterpreter/Railgun ruby.md",
-    "comman_hacking_terms/Windows API.md",
-    "comman_hacking_terms/DLL injection.md",
-    "Metasploit/meterpreter/loading powershell extension.md",
-    "comman_hacking_terms/Exploit.md",
-    "Metasploit/meterpreter/Meterpreter transports.md",
-    "Metasploit/Server side exploitation/Exploit windows server.md",
-    "Metasploit/Server side exploitation/Exploiting windows server when we have credentials.md",
-    "Metasploit/Server side exploitation/Denial of Service using MS15-034.md",
-    "Metasploit/meterpreter/Introduction to meterpreter.md",
     "images/transport_list.png",
-    "Metasploit/meterpreter/Meterpreter sleep control.md",
-    "Metasploit/meterpreter/Scraping the system using winenum.md",
     "forensics",
     "Metasploit/meterpreter/Untitled",
     "Pasted image 20230222121704.png",
